@@ -1,3 +1,3 @@
 # sample-plugin
 
-Sample InstaWP plugin folder for Git Deployment Demo
+Sample InstaWP plugin for Git Deployment Demo
