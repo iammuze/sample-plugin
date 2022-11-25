@@ -4,7 +4,7 @@
  *
  * @package       INSTAWPPRI
  * @author        Vikas
- * @version       1.0.204
+ * @version       1.0.205
  *
  * @wordpress-plugin
  * Plugin Name:   InstaWP Sample Plugin
