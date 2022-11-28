@@ -7,7 +7,7 @@
  * @version       1.0.205
  *
  * @wordpress-plugin
- * Plugin Name:   InstaWP Sample Plugin
+ * Plugin Name:   InstaWP Sample Plugin1122
  * Plugin URI:    https://instawp.com
  * Description:   InstaWP Git Deployment testing
  * Version:       1.0.204
