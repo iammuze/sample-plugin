@@ -10,7 +10,7 @@
  * Plugin Name:   InstaWP Sample Plugin
  * Plugin URI:    https://instawp.com
  * Description:   InstaWP Git Deployment testing
- * Version:       1.0.11
+ * Version:       1.0.12
  * Author:        Vikas
  * Author URI:    https://instawp.com
  * Text Domain:   instawp-sample-plugin
