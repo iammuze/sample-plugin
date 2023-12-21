@@ -12,6 +12,6 @@ jobs:
         with:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           INSTAWP_TOKEN: ${{secrets.INSTAWP_TOKEN}}
-          INSTAWP_TEMPLATE_SLUG: github-action
-          REPO_ID: 135
+          INSTAWP_TEMPLATE_SLUG: photo-studio-template
+          REPO_ID: 332
           INSTAWP_ACTION: create-site-template
