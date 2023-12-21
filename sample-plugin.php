@@ -27,7 +27,7 @@ add_filter('the_content', 'add_my_text');
 
 function add_my_text($content) {
     // Define the text and style
-    $custom_text = '<div style="background-color: #f2f2f2; padding: 10px; border: 1px solid #ddd;">Custom Styled Text</div>';
+    $custom_text = '<div style="background-color: #f2f2f2; padding: 10px; border: 1px solid #ddd;">21st Webinar</div>';
 
     // Add the custom text to the beginning of the content
     return $custom_text . $content;
