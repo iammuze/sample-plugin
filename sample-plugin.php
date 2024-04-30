@@ -4,7 +4,7 @@
  *
  * @package       INSTAWPPRI
  * @author        Vikas
- * @version       1.0.4
+ * @version       1.0.5
  *
  * @wordpress-plugin
  * Plugin Name:   Add text to the top of posts
