@@ -10,7 +10,7 @@
  * Plugin Name:   Add text to the top of posts
  * Plugin URI:    https://instawp.com
  * Description:   InstaWP Git Deployment testing
- * Version:       1.0.0
+ * Version:       1.0.1
  * Author:        Vikas
  * Author URI:    https://instawp.com
  * Text Domain:   instawp-sample-plugin
@@ -27,7 +27,7 @@ add_filter('the_content', 'add_my_text');
 
 function add_my_text($content) {
     // Define the text and style
-    $custom_text = '<div style="background-color: red; padding: 10px; border: 1px solid #ddd;">Github change to the plugin</div>';
+    $custom_text = '<div style="background-color: blue; padding: 10px; border: 1px solid #ddd;">Github change to the plugin</div>';
 
     // Add the custom text to the beginning of the content
     return $custom_text . $content;
